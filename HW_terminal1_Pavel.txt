@@ -34,7 +34,7 @@ mkdir папка33 папка44 папка55
 ls -la
 mv test10.txt ./папка33 test10.txt
 mv test14.json ./папка33 test15.json
-pwd
+pwd -
 mkdir foldername
-cd foldername
+cd foldername 
 
